@@ -27,10 +27,4 @@ A digital IC that detects and analyzes optical pulses — implemented from RTL t
 - sim/ — testbenches and simulation files
 - docs/ — documentation and screenshots
 
-## Simulation Results
 
-### Waveform
-![Pulse Detector Waveform](docs/waveform_pulse_detector.png)
-
-### Terminal Output
-![Simulation Output](docs/simulation_output.png)
