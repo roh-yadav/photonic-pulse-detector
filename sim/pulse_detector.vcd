@@ -1,0 +1,167 @@
+$date
+	Fri May  8 15:38:36 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module pulse_detector_tb $end
+$var wire 1 ! rising_edge $end
+$var wire 1 " pulse_active $end
+$var wire 1 # falling_edge $end
+$var reg 1 $ clk $end
+$var reg 1 % pulse_in $end
+$var reg 1 & rst_n $end
+$scope module dut $end
+$var wire 1 $ clk $end
+$var wire 1 % pulse_in $end
+$var wire 1 & rst_n $end
+$var reg 1 # falling_edge $end
+$var reg 1 " pulse_active $end
+$var reg 1 ' pulse_prev $end
+$var reg 1 ! rising_edge $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#5
+1$
+#10
+0$
+#15
+1$
+#20
+0$
+1&
+#25
+1$
+#30
+0$
+1%
+#35
+1"
+1!
+1'
+1$
+#40
+0$
+#45
+0!
+1$
+#50
+0$
+#55
+1$
+#60
+0$
+0%
+#65
+0"
+1#
+0'
+1$
+#70
+0$
+#75
+0#
+1$
+#80
+0$
+#85
+1$
+#90
+0$
+1%
+#95
+1"
+1!
+1'
+1$
+#100
+0$
+#105
+0!
+1$
+#110
+0$
+#115
+1$
+#120
+0$
+#125
+1$
+#130
+0$
+#135
+1$
+#140
+0$
+#145
+1$
+#150
+0$
+0%
+#155
+0"
+1#
+0'
+1$
+#160
+0$
+#165
+0#
+1$
+#170
+0$
+#175
+1$
+#180
+0$
+1%
+#185
+1"
+1!
+1'
+1$
+#190
+0$
+0%
+#195
+0"
+1#
+0!
+0'
+1$
+#200
+0$
+#205
+0#
+1$
+#210
+0$
+#215
+1$
+#220
+0$
+#225
+1$
+#230
+0$
+#235
+1$
+#240
+0$
