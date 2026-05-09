@@ -28,10 +28,19 @@ A digital IC that detects and analyzes optical pulses — implemented from RTL t
 - docs/ — documentation and screenshots
 
 
-## Simulation Results
+## Simulation Waveforms
 
-### Pulse Detector Waveform
-![Waveform](docs/waveform_pulse_detector.png)
+### Complete Chip (Top Module)
+![Top Waveform](docs/waveform_top.png)
 
-### Terminal Simulation Output
-![Simulation Output](docs/simulation_output.png)
+### Module 1 — Pulse Detector
+![Module 1](docs/waveform_module1.png)
+
+### Module 2 — Pulse Width Counter
+![Module 2](docs/waveform_module2.png)
+
+### Module 3 — Frequency Counter
+![Module 3](docs/waveform_module3.png)
+
+### Module 4 — UART Transmitter
+![Module 4](docs/waveform_module4.png)
