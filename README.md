@@ -6,7 +6,7 @@ implemented from RTL to GDS on SKY130 130nm PDK.
 **Author:** Rohit Yadav  
 **University:** TU Chemnitz, Germany  
 **Program:** MSc Design and Test of Integrated Circuits  
-**Date:** May 2026  
+**Date:** May 10 2026  
 
 ---
 
