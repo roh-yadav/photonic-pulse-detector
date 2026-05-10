@@ -41,6 +41,7 @@ architectures.
 ---
 
 ## Block Diagram
+````
 
 Light Pulse Input
 ↓
@@ -66,6 +67,7 @@ Light Pulse Input
 ↓
 Python Dashboard
 (live visualization)
+````
 
 ---
 
